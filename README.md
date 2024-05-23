@@ -10,3 +10,4 @@ Você está convidado a fazer este curso no seu próprio ritmo, começando quand
  - [EDX Course CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home)
  - [YouTube CS50](https://www.youtube.com/user/cs50tve)
 
+![Logo](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
