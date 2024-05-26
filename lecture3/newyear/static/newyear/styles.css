@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 200px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #ffffff; /* Cor de fundo padrão (claro) */
+}
+
+/* Estilo para quando o sistema operacional estiver usando um tema escuro */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000000; /* Cor de fundo para tema escuro */
+        color: #ffffff;     /* Cor do texto para tema escuro */
+    }
+}
